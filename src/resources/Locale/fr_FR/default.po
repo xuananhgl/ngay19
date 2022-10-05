@@ -1,2 +1,0 @@
-msgid "msg"
-msgstr "tieng phap."
